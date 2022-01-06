@@ -3,12 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Aken", "Aken\Aken.pyproj", "{FBA6860C-1685-4C6B-9AD1-7995D7261868}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{59B3F2D5-1960-47D4-B0FB-ED0A78D78AE6}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\..\Downloads\huggy wuggy.png = ..\..\..\..\..\Downloads\huggy wuggy.png
-	EndProjectSection
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Aken", "Aken\Aken.pyproj", "{49CA4B4E-7CCD-4DCD-B5B3-F8AAFD40F834}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FBA6860C-1685-4C6B-9AD1-7995D7261868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FBA6860C-1685-4C6B-9AD1-7995D7261868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CA4B4E-7CCD-4DCD-B5B3-F8AAFD40F834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CA4B4E-7CCD-4DCD-B5B3-F8AAFD40F834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3B3E21A1-60FB-4725-AF6A-9F4AC0661D0A}
+		SolutionGuid = {64C4CBA0-434C-4425-8E68-F15FF8630917}
 	EndGlobalSection
 EndGlobal
